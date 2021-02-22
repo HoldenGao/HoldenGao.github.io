@@ -3,8 +3,8 @@ layout: post
 title: Born of Yang's Website
 tags: [life]
 comments: true
-thumbnail-img: https://HoldenGao.github.io/assets/img/blog/thumb.jpg
-share-img: https://HoldenGao.github.io/assets/img/blog/thumb.jpg
+thumbnail-img: "https://HoldenGao.github.io/assets/img/blog/thumb.jpg"
+share-img: "https://HoldenGao.github.io/assets/img/blog/thumb.jpg"
 ---
 
 Hello, World.
