@@ -29,7 +29,7 @@ common-ext-js:
         </div>
       {% endif %}
 
-      {{ content }}
+      {{ content | toc_generate }}
 
       {% if page.after-content %}
         <div class="after-content">

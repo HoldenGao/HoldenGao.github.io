@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{{ content }}
+{{ content  | toc_generate}}
 
 {% assign posts = paginator.posts | default: site.posts %}
 
