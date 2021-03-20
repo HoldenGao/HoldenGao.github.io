@@ -9,8 +9,13 @@ title: News
 
 
 
-2021-02-26 Goodbye Hong Kong, on the way home.
+2021-03-12 Finished quarantine in Shen Zhen
+
+
+
+2021-02-26 Goodbye Hong Kong, on the way home
 
 
 
 *2021-02-21*  Build my first website
+
