@@ -5,6 +5,10 @@ title: News
 
 
 
+2021-3-31 Join in BaiDu
+
+
+
 2021-3-28 Arrived in Beijing. New begin, new life
 
 
